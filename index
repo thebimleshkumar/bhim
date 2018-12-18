@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Gaffer IT Solutions Pvt. Ltd. New Delhi" />
+<title>Discount Coupons, Offers, Promo Code and Vouchers::Savetodeal.com</title>
+<link type="text/css" rel="stylesheet" href="mystyle.css"  />
+<link rel="fav icon"  href="Images/ave2deal.ico">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+<!--<meta name="refresh" http-equiv="refresh" content="5">-->
+<!--<link type="text/css" rel="stylesheet" href="Bootstrap/css/bootstrap.min.css"/>
+<link type="text/javascript" rel="javascript" href="Bootstrap/js/bootstrap.min.js"/>-->
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+</head>
+  <body>	
+    <!-- Header page goes here-->
+    <div class="wrapper">								
+      <div class="header">
+         <div class="header_left">
+         	<a href="www.savetodeal.com"><img title="SaveToDeal" src="Images/icon.png" /></a>
+            <h2> SaveTo<span class="InCity">Deal</span></h2>
+         </div>
+         <div class="header_right">
+         	<ul class="menu">
+            	<li><a href="home.html">Home</a></li>
+                <li><a href="categories.html">Categories</a></li>
+                <li><a href="stores.html">Stores</a></li>
+                <li><a href="recharge-and-bill-payments.html">Recharge &amp; Bill Payments</a></li>
+                <li><a href="electronics.html">Electronics</a></li>
+                <li><a href="home-appliances.html">Home Appliances</a></li>
+                <li><a href="electricity.html">Electricity</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+    <!-- Slide image section goes here-->
+    <div class="slide-container">  
+    	<div class="myslides">                                    				
+    		<img src="Images/sliderimg.jpg"/>
+            <!--<img src="Images/sliderimg2.jpg"/>-->
+        </div>
+       <!-- <div class="button-holder">                                    				
+    		<button class="btn-left">&lt;</button>
+            <button class="btn-right">&gt;</button>
+        </div>-->
+    </div>
+        <div class="scroll">
+             <div class="container">
+				<div class="content">
+                	<div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/swiggylogo.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Swiggy Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/rehlat.png"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Rehlat Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/MRlogo.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Mark Ryden Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/flipkart.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Flipkart Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/paytm.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Paytm Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/uber.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Uber Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/expedia.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Expedia Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/healthkart.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Healthkart Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/adidas.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Adidas Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/bigbazaar.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Big Bazaar Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/voylla.png"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Voylla Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/fastrack.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Fastrack Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/Nykaa.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Nykaa Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/abof.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Abof Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/indigo.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Indigo Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/gearbest.png"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Gearbest Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                    <div class="list-group">
+                    	<div class="list-group-img">
+                        	<img align="left" src="Images/reliance.jpg"  />
+                        </div>
+                        <div class="list-group-news">
+                        	<p><a href="#"> Reliance Discount Coupons, Offers, Promo Code &amp; Vouchers</a><p>
+                        </div>
+                    </div>
+                </div>
+             </div>
+        </div>
+    <!-- Popular Stores Section goes here.. -->
+    <div class="wrapper">														
+       <div class="section-heading">
+         <span class="section-heading-text">
+         	<h2><strong>Popular</strong>&nbsp;<span class="InCity">Stores</span></h2>
+         </span>
+         <div class="line">
+         	<hr />
+         </div>
+         <button class="view" id="viewall" onClick="" type="button"> View all</button>
+       </div>
+       <p><br></p>
+       <div class="section-heading">
+           <div class="small-section">
+                <div class="logo-box">
+                    <a href="swiggy-discount-coupans.html"><img src="Images/swiggylogo.jpg"/></a>
+                    <h4><a href="swiggy-discount-coupans.html">2 Discount Coupon</a></h4>
+                </div>
+            </div>
+            <div class="small-section">
+            <div class="logo-box">
+                <a href="#"><img src="Images/rehlat.png"/></a>
+                <h4><a href="#">2 Discount Coupon</a></h4>
+            </div>
+            </div>
+           <div class="small-section">
+            <div class="logo-box">
+                <a href="#"><img src="Images/bookinglogo.jpg"/></a>
+                <h4><a href="#">2 Discount Coupon</a></h4>
+            </div>
+       </div>
+       <div class="small-section">
+            <div class="logo-box">
+                <a href="#"><img src="Images/MRlogo.jpg"/></a>
+                <h4><a href="#">2 Discount Coupon</a></h4>
+            </div>
+        </div>
+       <div class="small-section">
+            <div class="logo-box">
+                <a href="#"><img src="Images/fernsnpetals.png"/></a>
+                <h4><a href="#">2 Discount Coupon</a></h4>
+            </div>
+       </div>
+       <div class="small-section">
+        <div class="logo-box">
+            <a href="#"><img src="Images/myntra.jpg"/></a>
+            <h4><a href="#">2 Discount Coupon</a></h4>
+        </div>
+       </div>
+       <div class="small-section">
+            <div class="logo-box">
+                <a href="#"><img src="Images/amazon.jpg"/></a>
+                <h4><a href="#">2 Discount Coupon</a></h4>
+            </div>
+       </div>
+       <div class="small-section">
+            <div class="logo-box">
+                <a href="#"><img src="Images/1img.jpg"/></a>
+                <h4><a href="#">2 Discount Coupon</a></h4>
+            </div>
+       </div>
+       <div class="small-section">
+            <div class="logo-box">
+                <a href="#"><img src="Images/etihaad.jpg"/></a>
+                <h4><a href="#">2 Discount Coupon</a></h4>
+            </div>
+       </div>
+       <div class="small-section">
+            <div class="logo-box">
+                <a href="#"><img src="Images/emirates.jpg"/></a>
+                <h4><a href="#">2 Discount Coupon</a></h4>
+            </div>
+       </div>
+       <div class="small-section">
+            <div class="logo-box">
+                <a href="#"><img src="Images/pizzahut.jpg"/></a>
+                <h4><a href="#">2 Discount Coupon</a></h4>
+            </div>
+       </div>
+       <div class="small-section">
+            <div class="logo-box">
+                <a href="#"><img src="Images/tatad.jpg"/></a>
+                <h4><a href="#">2 Discount Coupon</a></h4>
+            </div>
+       </div>
+<!-- Featured Offers section goes here.. -->
+       <div class="section-heading">								
+         <span class="section-heading-text">
+         	<h2><strong>Featured</strong>&nbsp;<span class="InCity">Offers</span></h2>
+         </span>
+         <div class="line">
+         	<hr />
+         </div>
+         <button class="view" id="viewall" onClick="#" type="button"> View all</button>
+       </div>
+       <p><br></p>
+       <div class="featured-box">
+        <div class="featured-text">
+            <img src="Images/swiggylogo.jpg"/>
+            <div class="offer">
+            	<strong>Rs. 100 off</strong>
+            </div>
+            <p><a href="#">Get Rs 100 Off, Min Rs 500 And Above, Valid Twice Per user per month, Thursday Only.</a></p>
+            <button value="View Code" type="button" onclick="#">View Code</button>
+        </div>
+       </div>
+       <div class="featured-box">
+        <div class="featured-text">
+            <img class="mr-logo" src="Images/MRlogo.jpg"/>
+            <div class="offer">
+            	<strong>get 10% off</strong>
+            </div>
+            <p><a href="#">Get 10% off on entire order.</a></p>
+            <button class="view-code" value="View Code" type="button" onclick="#">View Code</button>
+        </div>
+       </div>
+       <div class="featured-box">
+        <div class="featured-text">
+            <img class="rehlat-logo" src="Images/rehlat.png"/>
+            <div class="offer">
+            	<strong>get flat 30% off</strong>
+            </div>
+            <p><a href="#">Masreq (UAE) offer: Get flat 30% off on Flights and Hotels.</a></p>
+            <button value="View Code" type="button" onclick="#">View Code</button>
+        </div>
+       </div>
+       <div class="featured-box">
+        <div class="featured-text">
+         <img src="Images/swiggylogo.jpg"/>
+         <div class="offer">
+           <strong>Rs. 100 off</strong>
+         </div>
+        	<p><a href="#">Get Rs 100 Off, Min Rs 500 And Above, Valid Twice Per user per month, Thursday Only.</a></p>
+        	<button class="view-code" value="View Code" type="button" onclick="#">View Code</button>
+       	</div>
+       </div>
+       <br />
+       <br />
+       <!-- Popular Categories section goes here.. -->
+       <div class="section-heading">											
+         <span class="section-heading-text">
+         	<h2><strong>Popular</strong>&nbsp;<span class="InCity">Categories</span></h2>
+         </span>
+         <div class="line">
+         	<hr />
+         </div>
+         <button class="view" id="viewall" onclick="#" type="button"> View all</button>
+       </div>
+       <p><br></p>
+       <div	class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/food.jpg"/>
+                <h4>Food</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/bags.jpg"/>
+                <h4>Bags</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/hotelbooking.jpg"/>
+                <h4>Hotel Booking</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/watch.jpg"/>
+                <h4>Watches</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/camera.jpg"/>
+                <h4>Cam Accessories</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/Intflight.jpg"/>
+                <h4>Int'l Flights</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/furniture.jpg"/>
+                <h4>Furniture</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/metrocard.jpg"/>
+                <h4>Metro Travel</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/referandearn.jpg"/>
+                <h4>Refer and Earn</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/entertainment.jpg"/>
+                	<h4>Entertainment</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/giftvoucher.jpg"/>
+                <h4>Gift Voucher</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/mobile.jpg"/>
+                <h4>Mob Accessories</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/automobile.jpg"/>
+                <h4>Automobile</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/electronic.jpg"/>
+                <h4>Electronics</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/flower.jpg"/>
+                <h4>Flower</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/bankoffer.jpg"/>
+                <h4>Bank Offer</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/downloadapp.jpg"/>
+                <h4>Download</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+        <div class="supercat">
+           <div class="catergories">
+            <div>
+                <a href="#"><img src="Images/olamoney.jpg"/>
+                <h4>Ola Money</h4>
+                </a>
+            </div>
+           </div>
+        </div>
+       <div class="wrapper">
+        <div class="ad-section">
+            <a href="#"><img class="img1" src="Images/firstcry.jpg" /></a>
+            <a href="#"><img class="img2" src="Images/admitad.jpg" /></a>
+        </div>
+       </div>
+    </div>
+    </div>
+    <!--Newsletter section start-->
+    <div class="newsletter">															
+        <div class="container">
+            <div class="ns-signup-title">
+                <strong>Newsletter SignupTrack </strong>&nbsp;&nbsp;&nbsp;|
+                &nbsp;&nbsp;the latest deals & offers from SaveToDeal
+            </div>
+            <div class="ns-sub-btn">
+              <input id="subinput" type="text"  placeholder="Enter your email address" />
+              <button id="button"  type="Submit" onclick="SayRequired()" value="Subscribe"> <b> Subscribe </b>  </button>
+            </div>
+        </div>
+    </div>
+    <div class="top-footer">
+      <div class="container">
+        <div class="row">
+            <div class="row-text"><h3>1 Million</h3>
+                <p>Page veiws we receive every year</p>
+            </div>
+            <div class="row-text"><h3>2,000</h3>
+                <p>People subscribed newsletter</p>
+            </div>
+            <div class="row-text"><h3>60+ </h3>
+                <p>Listed store on website</p>
+            </div>
+            <div class="row-text"><h3>50+</h3>
+                <p>Listed category on website</p>
+            </div>
+        </div>
+        <div class="line">
+        	<span><hr /></span>
+        </div>
+        <div class="row-middle-bar">
+         <div class="middle-col-1">
+          <div class="mid-text">
+         	<strong>Popular Categories</strong>
+            <ul class="list">
+                <li><a href="#">Recharge &amp; bill payments</a></li>
+                <li><a href="#">Electronics</a></li>
+                <li><a href="#">Clothing &amp; accessories</a></li>
+                <li><a href="#">Footwear</a></li>
+                <li><a href="#">Ola money</a></li>
+            </ul>
+          </div>
+         </div>
+		</div>
+        <div class="row-middle-bar">
+         <div class="middle-col-1">
+          <div class="mid-text">
+         	<strong>Stores</strong>
+            <ul class="list">
+                <li><a href="#">Flipkart Mobile</a></li>
+                <li><a href="#">Zoomcar</a></li>
+                <li><a href="#">Swiggy</a></li>
+                <li><a href="#">Myntra</a></li>
+                <li><a href="#">Bigbasket</a></li>
+            </ul>
+          </div>
+         </div>
+		</div>
+        <div class="row-middle-bar">
+         <div class="middle-col-1">
+          <div class="mid-text">
+         	<strong>Popular Stores</strong>
+            <ul class="list">
+                <li><a href="#">Book My Show</a></li>
+                <li><a href="#">Amazon</a></li>
+                <li><a href="#">Foodpanda</a></li>
+                <li><a href="#">Freecharge</a></li>
+                <li><a href="#">Burger King</a></li>
+            </ul>
+          </div>
+         </div>
+		</div>
+        <div class="row-middle-bar">
+         <div class="middle-col-1">
+          <div class="mid-text">
+         	<strong>Offers</strong>
+            <ul class="list">
+                <li><a href="#">Electronics Offers</a></li>
+                <li><a href="#">Mobile Recharge</a></li>
+                <li><a href="#">Movie Tickets</a></li>
+                <li><a href="#">Clothing & Accessories</a></li>
+                <li><a href="#">Travel Offer</a></li>
+            </ul>
+          </div>
+         </div>
+		</div>
+        <div class="row-middle-bar">
+         <div class="middle-col-1">
+          <div class="mid-text">
+         	<strong>General Links</strong>
+            <ul class="list">
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">Sitemap</a></li>
+                <li><a href="#">Privacy</a></li>
+                <li><a href="#">Terms Of Conditions</a></li>
+            </ul>
+          </div>
+         </div>
+		</div>
+      </div>
+      <div class="hor-line">
+        	<hr>
+        </div>
+   	  <div class="soc-media-section">
+        <div class="soc-media-container">
+            <div class="app-img">
+                <a href="#"><img src="Images/google-play.png" /></a>
+                <a href="#"><img src="Images/app-store.png" /></a>
+            </div>
+            <div class="logo">
+                <ul>
+                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                    <li><a href="#"><i class="fa fa-rss"></i></a></li>
+                </ul>
+            </div>
+        </div>
+      </div>
+   </div>
+    <div class="col-copyright">
+      <div class="container">
+      	<div class="copy-left">
+        	<span class="cr-text"> &copy; 2018 All right reseverd.</span>
+        </div>
+         <div class="copy-right">
+        	 <span class="developed"> Designed &amp; Developed By <a href="www.gafferitsolutions.com"> Gaffer IT Solutions Pvt. Ltd.</a></span>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
